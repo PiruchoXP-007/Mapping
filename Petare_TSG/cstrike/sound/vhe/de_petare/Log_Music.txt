@@ -1,0 +1,18 @@
+Music_Login:
+
+* - Credito a DJ Nain por aporta la lista de musicas para el mapa.
+
+Music_amb:
+
+* - Adaptado para el juego por Pirucho XP-007.
+
+Link de la musica: https://www.youtube.com/watch?v=uwJgAkjGFhI&list=RDuwJgAkjGFhI&start_radio=1
+
+Random_amb:
+
+* - Sound de Half Life:OF.
+
+Random_guns:
+
+* - Sound del catalogo de ambiente del juego de Left 4 Dead 1 y 2.
+

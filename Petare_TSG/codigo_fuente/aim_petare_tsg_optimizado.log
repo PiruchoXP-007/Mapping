@@ -1,0 +1,318 @@
+hlcsg v3.4 VL34 64-bit (Aug 17 2015)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (vluzacn@163.com)
+-----  BEGIN  hlcsg -----
+Command line: E:\Mapas\vluzacn_s_zhlt_v34\tools\x64\hlcsg.exe -nowadtextures -wadautodetect -cliptype Precise -wadinclude dev_boxcolor-textures.wad -wadinclude TexturasTSG.wad -wadinclude jp_dev.wad -wadinclude FarmaTSG.wad -wadinclude WadXP.wad -wadinclude hospital_night.wad E:\Mapas\Petare\codigo_fuente\aim_petare_tsg_optimizado 
+Arguments: -nowadtextures -wadautodetect -cliptype Precise -wadinclude dev_boxcolor-textures.wad -wadinclude TexturasTSG.wad -wadinclude jp_dev.wad -wadinclude FarmaTSG.wad -wadinclude WadXP.wad -wadinclude hospital_night.wad E:\Mapas\Petare\codigo_fuente\aim_petare_tsg_optimizado 
+Entering E:\Mapas\Petare\codigo_fuente\aim_petare_tsg_optimizado.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       4 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+reset logfile         [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 33554432 ] [ 33554432 ]
+max lighting memory   [ 50331648 ] [ 50331648 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [     off ] [     off ]
+clip hull type        [ precise ] [  simple ]
+onlyents              [     off ] [     off ]
+wadtextures           [     off ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+wad configuration file[    None ] [    None ]
+wad.cfg group name    [    None ] [    None ]
+nullfile              [    None ] [    None ]
+nullify trigger       [      on ] [      on ]
+min surface area      [   0.000 ] [   0.000 ]
+brush union threshold [   0.000 ] [   0.000 ]
+map scaling           [    None ] [    None ]
+light name optimize   [      on ] [      on ]
+convert game_text     [      on ] [      on ]
+
+Using mapfile wad configuration
+Wadfiles not in use by the map will be excluded
+Wadinclude list :
+[zhlt.wad]
+[dev_boxcolor-textures.wad]
+[TexturasTSG.wad]
+[jp_dev.wad]
+[FarmaTSG.wad]
+[WadXP.wad]
+[hospital_night.wad]
+
+CreateBrush:
+Warning: Illegal Brush (edge without opposite face): Entity 1, Brush 4
+
+ (0.48 seconds)
+CSGBrush:
+ (0.76 seconds)
+
+added 14 additional animating textures.
+Including Wadfile: \SteamLibrary\steamapps\common\Half-Life\cstrike\chateau.wad
+ - Contains 2 used textures, 1.20 percent of map (136 textures in wad)
+Including Wadfile: \SteamLibrary\steamapps\common\Half-Life\cstrike\cs_747.wad
+ - Contains 1 used texture, 0.60 percent of map (143 textures in wad)
+Including Wadfile: \SteamLibrary\steamapps\common\Half-Life\cstrike\cs_bdog.wad
+ - Contains 1 used texture, 0.60 percent of map (132 textures in wad)
+Including Wadfile: \SteamLibrary\steamapps\common\Half-Life\cstrike\cs_dust.wad
+ - Contains 17 used textures, 10.18 percent of map (28 textures in wad)
+Including Wadfile: \SteamLibrary\steamapps\common\Half-Life\cstrike\cs_havana.wad
+ - Contains 1 used texture, 0.60 percent of map (122 textures in wad)
+Including Wadfile: \SteamLibrary\steamapps\common\Half-Life\cstrike\cs_office.wad
+ - Contains 1 used texture, 0.60 percent of map (102 textures in wad)
+Including Wadfile: \SteamLibrary\steamapps\common\Half-Life\cstrike\cstrike.wad
+ - Contains 4 used textures, 2.40 percent of map (123 textures in wad)
+Including Wadfile: \SteamLibrary\steamapps\common\Half-Life\cstrike\de_piranesi.wad
+ - Contains 1 used texture, 0.60 percent of map (160 textures in wad)
+Including Wadfile: \SteamLibrary\steamapps\common\Half-Life\cstrike\de_storm.wad
+ - Contains 2 used textures, 1.20 percent of map (74 textures in wad)
+Including Wadfile: \SteamLibrary\steamapps\common\Half-Life\cstrike\torntextures.wad
+ - Contains 3 used textures, 1.80 percent of map (162 textures in wad)
+Including Wadfile: \SteamLibrary\steamapps\common\Half-Life\valve\halflife.wad
+ - Contains 33 used textures, 19.76 percent of map (3116 textures in wad)
+Including Wadfile: \Mapas\WadXP.wad
+ - Contains 61 used textures, 36.53 percent of map (2921 textures in wad)
+Including Wadfile: \Mapas\jp_dev.wad
+ - Contains 1 used texture, 0.60 percent of map (113 textures in wad)
+Including Wadfile: \Mapas\wad\FarmaTSG.wad
+ - Contains 9 used textures, 5.39 percent of map (193 textures in wad)
+Including Wadfile: \Mapas\Petare\codigo_fuente\TexturasTSG.wad
+ - Contains 30 used textures, 17.96 percent of map (251 textures in wad)
+
+Wad files required to run the map: (None)
+Texture usage is at 6.51 mb (of 32.00 mb MAX)
+1.72 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 VL34 64-bit (Aug 17 2015)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (vluzacn@163.com)
+-----  BEGIN  hlbsp -----
+Command line: E:\Mapas\vluzacn_s_zhlt_v34\tools\x64\hlbsp.exe -notjunc -maxnodesize 1024.0 E:\Mapas\Petare\codigo_fuente\aim_petare_tsg_optimizado 
+Arguments: -notjunc -maxnodesize 1024.0 E:\Mapas\Petare\codigo_fuente\aim_petare_tsg_optimizado 
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       4 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 33554432 ] [ 33554432 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noinsidefill        [     off ] [     off ]
+noopt               [     off ] [     off ]
+no clipnode merging [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [      on ] [     off ]
+nobrink             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 65536)
+remove hull 2       [     off ] [     off ]
+
+
+SolidBSP [hull 0] Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (1536,1088,-0)-(1536,1792,0) in hull 0 of model 0 (entity: classname "worldspawn", origin "", targetname "")
+500...1000...1500...2000...2500...2987 (0.41 seconds)
+BSP generation successful, writing portal file 'E:\Mapas\Petare\codigo_fuente\aim_petare_tsg_optimizado.prt'
+SolidBSP [hull 1] 500...1000...1500...1952 (0.52 seconds)
+SolidBSP [hull 2] 500...1000...1500...1764 (0.39 seconds)
+SolidBSP [hull 3] 500...1000...1500...2000...2044 (0.24 seconds)
+Reduced 8116 clipnodes to 7488
+Reduced 1757 texinfos to 1589
+Reduced 167 texdatas to 157 (6829516 bytes to 6701676)
+Reduced 12490 planes to 3819
+FixBrinks:
+Increased 7488 clipnodes to 7573.
+4.47 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 VL34 64-bit (Aug 17 2015)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (vluzacn@163.com)
+-----  BEGIN  hlvis -----
+Command line: E:\Mapas\vluzacn_s_zhlt_v34\tools\x64\hlvis.exe -full E:\Mapas\Petare\codigo_fuente\aim_petare_tsg_optimizado 
+Arguments: -full E:\Mapas\Petare\codigo_fuente\aim_petare_tsg_optimizado 
+1020 portalleafs
+3253 numportals
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       4 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 33554432 ] [ 33554432 ]
+max vis distance    [       0 ] [       0 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [     off ] [     off ]
+full vis            [      on ] [     off ]
+
+
+BasePortalVis:
+ (1.26 seconds)
+LeafThread:
+ (87.36 seconds)
+average leafs visible: 228
+g_visdatasize:162414  compressed from 130560
+88.75 seconds elapsed [1m 28s]
+
+-----   END   hlvis -----
+
+
+
+hlrad v3.4 VL34 64-bit (Aug 17 2015)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (vluzacn@163.com)
+-----  BEGIN  hlrad -----
+Command line: E:\Mapas\vluzacn_s_zhlt_v34\tools\x64\hlrad.exe -extra -bounce 8 -chop 64.0 -lights E:\Mapas\vluzacn_s_zhlt_v34\tools\lights.rad E:\Mapas\Petare\codigo_fuente\aim_petare_tsg_optimizado 
+Arguments: -extra -bounce 8 -chop 64.0 -lights E:\Mapas\vluzacn_s_zhlt_v34\tools\lights.rad E:\Mapas\Petare\codigo_fuente\aim_petare_tsg_optimizado 
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 4 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [               off ] [               off ]
+max texture memory   [          33554432 ] [          33554432 ]
+max lighting memory  [          50331648 ] [          50331648 ]
+priority             [            Normal ] [            Normal ]
+
+fast rad             [               off ] [               off ]
+vismatrix algorithm  [            Sparse ] [            Sparse ]
+oversampling (-extra)[                on ] [               off ]
+bounces              [                 8 ] [                 8 ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+light limit threshold[           188.000 ] [           188.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+smoothing threshold 2[         no change ] [         no change ]
+direct threshold     [            10.000 ] [            10.000 ]
+direct light scale   [             1.000 ] [             1.000 ]
+coring threshold     [             0.010 ] [             0.010 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global texlight gap  [             0.000 ] [             0.000 ]
+global light scale   [ 2.000 2.000 2.000 ] [ 2.000 2.000 2.000 ]
+global gamma         [ 0.550 0.550 0.550 ] [ 0.550 0.550 0.550 ]
+global light scale   [             2.000 ] [             2.000 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+spread angles        [                on ] [                on ]
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+colour jitter        [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+monochromatic jitter [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+
+custom shadows with bounce light
+                     [               off ] [               off ]
+rgb transfers        [               off ] [               off ]
+minimum final light  [                 0 ] [                 0 ]
+size of transfer     [         1 (16bit) ] [         1 (16bit) ]
+size of rgbtransfer  [         2 (32bit) ] [         2 (32bit) ]
+soft sky             [                on ] [                on ]
+translucent depth    [             2.000 ] [             2.000 ]
+block opaque         [                on ] [                on ]
+ignore textures      [               off ] [               off ]
+reflectivity gamma   [             1.760 ] [             1.760 ]
+reflectivity scale   [             0.700 ] [             0.700 ]
+blur size            [             1.500 ] [             1.500 ]
+no emitter range     [               off ] [               off ]
+wall bleeding fix    [                on ] [                on ]
+
+
+Load Textures:
+157 textures referenced
+Reading texlights from 'E:\Mapas\vluzacn_s_zhlt_v34\tools\lights.rad'
+0 opaque models
+0 opaque faces
+8015 faces
+Create Patches : 21840 base patches
+291365 square feet [41956632.00 square inches]
+3 direct lights and 16386 fast direct lights
+2 light styles
+
+FindFacePositions:
+ (2.58 seconds)
+BuildFacelights:
+ (44.69 seconds)
+BuildVisLeafs:
+ (16.59 seconds)
+visibility matrix   :  11.4 megs
+MakeScales:
+ (13.43 seconds)
+Transfer Lists :    24167086 :    24.17M transfers
+       Indices :    20500428 :    19.55M bytes
+          Data :    48395027 :    46.15M bytes
+Bounce 1 GatherLight:
+ (0.57 seconds)
+Bounce 2 GatherLight:
+ (0.55 seconds)
+Bounce 3 GatherLight:
+ (0.56 seconds)
+Bounce 4 GatherLight:
+ (0.56 seconds)
+Bounce 5 GatherLight:
+ (0.55 seconds)
+Bounce 6 GatherLight:
+ (0.56 seconds)
+Bounce 7 GatherLight:
+ (0.56 seconds)
+Bounce 8 GatherLight:
+ (0.55 seconds)
+CreateTriangulations:
+ (0.12 seconds)
+AddPatchLights:
+ (3.54 seconds)
+FinalLightFace:
+ (0.04 seconds)
+86.41 seconds elapsed [1m 26s]
+
+-----   END   hlrad -----
+
+
+
