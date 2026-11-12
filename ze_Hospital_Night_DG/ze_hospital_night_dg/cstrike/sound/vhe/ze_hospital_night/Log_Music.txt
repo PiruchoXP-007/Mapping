@@ -1,0 +1,17 @@
+// Buenas aqui esta el log actualizado de los sound usados en cada mapa, aportes, etc.
+
+// *** ze_hospital_night_dg *** 
+
+Random_amb:
+
+* - ambiente_hospital - Sonido Generico del juego SWAT4
+* - sonido_hospital1/3 - Sonido Generico del juego SWAT4
+* - mensaje_pc_hp - Sonido de Radio de SWAT4
+* - jefe - Sonido Generico de Call Of duty
+* - raccon_city_escape - Musica de The Suffering 2.
+* - dial - sonido de internet de los años 90.         // Descartado del mapa.
+* - wind1 - sonido de half life 1.
+
+Sonidos descartados: dial.wav , wind1.wav.
+
+* - Sound aportados por Pirucho XP-007.

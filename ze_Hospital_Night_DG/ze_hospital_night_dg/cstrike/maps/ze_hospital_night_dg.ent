@@ -1,0 +1,2050 @@
+{
+  "message" "Mapa creado por Pirucho XP-007"
+  "skyname" "backalley"
+  "MaxRange" "7000"
+  "angles" "0 0 0"
+  "mapversion" "220"
+  "_generator" "J.A.C.K. 1.1.1064 (vpHalfLife)"
+  "compiler" "ZHLT v3.4 VL34 (Aug 17 2015)"
+  "classname" "worldspawn"
+}
+{
+  "origin" "-1918 -2824 3390"
+  "model" "models/player/gsg9/gsg9.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_start"
+}
+{
+  "origin" "-1644 -2832 3396"
+  "spawnflags" "1"
+  "cspinup" "0"
+  "lfomodvol" "0"
+  "lfomodpitch" "0"
+  "lforate" "0"
+  "lfotype" "0"
+  "spindown" "0"
+  "spinup" "0"
+  "pitchstart" "100"
+  "pitch" "100"
+  "fadeout" "0"
+  "fadein" "0"
+  "volstart" "0"
+  "health" "100"
+  "targetname" "mensaje_swat"
+  "message" "vhe/ze_hospital_night/mensaje_pc_hp.wav"
+  "angles" "0 0 0"
+  "classname" "ambient_generic"
+}
+{
+  "origin" "-1876 -3568 3395"
+  "texture" "{BLOODHAND2"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "style" "32"
+  "origin" "-2148 -3590 3480"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "origin" "-1282 -2672 3419"
+  "angles" "0 0 0"
+  "texture" "{BREAK1"
+  "classname" "infodecal"
+}
+{
+  "origin" "-1093 -2672 3413"
+  "angles" "0 0 0"
+  "texture" "{BREAK2"
+  "classname" "infodecal"
+}
+{
+  "origin" "-1228 -2672 3405"
+  "angles" "0 0 0"
+  "texture" "{BREAK2"
+  "classname" "infodecal"
+}
+{
+  "origin" "-1137 -2672 3421"
+  "angles" "0 0 0"
+  "texture" "{BREAK1"
+  "classname" "infodecal"
+}
+{
+  "origin" "-1612 -2832 3404"
+  "spawnflags" "8"
+  "cspinup" "0"
+  "lfomodvol" "0"
+  "lfomodpitch" "0"
+  "lforate" "0"
+  "lfotype" "0"
+  "spindown" "0"
+  "spinup" "0"
+  "pitchstart" "100"
+  "pitch" "100"
+  "fadeout" "0"
+  "fadein" "0"
+  "volstart" "0"
+  "health" "100"
+  "targetname" "ambiente_hp"
+  "message" "vhe/ze_hospital_night/ambiente_hospital.wav"
+  "angles" "0 0 0"
+  "classname" "ambient_generic"
+}
+{
+  "origin" "-1920 -2906 3390"
+  "model" "models/player/gsg9/gsg9.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_start"
+}
+{
+  "origin" "284 -2726 3412"
+  "spawnflags" "8"
+  "targetname" "ambiente_hp01"
+  "message" "vhe/ze_hospital_night/sonido_hospital1.wav"
+  "cspinup" "0"
+  "lfomodvol" "0"
+  "lfomodpitch" "0"
+  "lforate" "0"
+  "lfotype" "0"
+  "spindown" "0"
+  "spinup" "0"
+  "pitchstart" "100"
+  "pitch" "100"
+  "fadeout" "0"
+  "fadein" "0"
+  "volstart" "0"
+  "health" "100"
+  "angles" "0 0 0"
+  "classname" "ambient_generic"
+}
+{
+  "origin" "-35 -1898 3442"
+  "texture" "{BIGBLOOD1"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "88 -2072 3348"
+  "texture" "{BIGBLOOD1"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "236 -2059 3348"
+  "texture" "{BIGBLOOD2"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "102 -1898 3442"
+  "texture" "{BLOODHAND3"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "1180 -2316 3411.25"
+  "texture" "{BLOODHAND5"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "1288 -1866 3122"
+  "texture" "{C1A3_ORG1"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "156 -3350 3480"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "origin" "284 -2710 3480"
+  "MaxDelay" "0"
+  "angles" "0 0 0"
+  "classname" "env_spark"
+}
+{
+  "origin" "1316 -3014 3444"
+  "texture" "{BLOODHAND2"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "1524 -3014 3444"
+  "texture" "{BLOODHAND3"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "1386 -3014 3456"
+  "texture" "{BREAK3"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "1436 -3014 3436"
+  "texture" "{BREAK3"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "1491 -3014 3455"
+  "texture" "{BREAK3"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "1968 -3364 3422"
+  "texture" "{BREAK1"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "2015 -3364 3414"
+  "texture" "{BREAK2"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "2188 -3544 3480"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "origin" "598 -2384 3192"
+  "_fade" "1.0"
+  "_light" "190 255 255 120"
+  "angles" "0 270 0"
+  "classname" "light"
+}
+{
+  "origin" "2438 -3451 3348"
+  "texture" "{BIGBLOOD1"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "3244 -3523 3427"
+  "texture" "{ARROW_R"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "3058 -2768 3192"
+  "_fade" "1.0"
+  "_light" "190 255 255 120"
+  "angles" "0 270 0"
+  "classname" "light"
+}
+{
+  "origin" "2528 672 2800"
+  "texture" "{C2A2_A"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "2171 324 2765"
+  "texture" "{BLOODHAND2"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "1807 320 2743"
+  "texture" "{BLOODHAND3"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "1952 324 2750"
+  "texture" "{BREAK3"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "2018 324 2775"
+  "texture" "{BREAK3"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "2908 -3392 3404"
+  "spawnflags" "8"
+  "cspinup" "0"
+  "lfomodvol" "0"
+  "lfomodpitch" "0"
+  "lforate" "0"
+  "lfotype" "0"
+  "spindown" "0"
+  "spinup" "0"
+  "pitchstart" "100"
+  "pitch" "100"
+  "fadeout" "0"
+  "fadein" "0"
+  "volstart" "0"
+  "health" "100"
+  "targetname" "ambiente_hp03"
+  "message" "vhe/ze_hospital_night/sonido_hospital3.wav"
+  "angles" "0 0 0"
+  "classname" "ambient_generic"
+}
+{
+  "origin" "3068 -1232 3092"
+  "spawnflags" "8"
+  "angles" "0 0 0"
+  "targetname" "ambiente_hp"
+  "message" "vhe/ze_hospital_night/ambiente_hospital.wav"
+  "cspinup" "0"
+  "lfomodvol" "0"
+  "lfomodpitch" "0"
+  "lforate" "0"
+  "lfotype" "0"
+  "spindown" "0"
+  "spinup" "0"
+  "pitchstart" "100"
+  "pitch" "100"
+  "fadeout" "0"
+  "fadein" "0"
+  "volstart" "0"
+  "health" "100"
+  "classname" "ambient_generic"
+}
+{
+  "origin" "2602 45 2764"
+  "spawnflags" "8"
+  "angles" "0 90 0"
+  "targetname" "ambiente_hp01"
+  "message" "vhe/ze_hospital_night/ambiente_hospital.wav"
+  "cspinup" "0"
+  "lfomodvol" "0"
+  "lfomodpitch" "0"
+  "lforate" "0"
+  "lfotype" "0"
+  "spindown" "0"
+  "spinup" "0"
+  "pitchstart" "100"
+  "pitch" "100"
+  "fadeout" "0"
+  "fadein" "0"
+  "volstart" "0"
+  "health" "100"
+  "classname" "ambient_generic"
+}
+{
+  "origin" "2324 2105 3514"
+  "texture" "{BREAK3"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "2324 2294 3513"
+  "texture" "{BREAK3"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "2324 2229 3512"
+  "texture" "{BLOODHAND3"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "2190 2016 3608"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 270 0"
+  "classname" "light"
+}
+{
+  "origin" "2190 2592 3608"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 270 0"
+  "classname" "light"
+}
+{
+  "origin" "1790 3302 3608"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 90 0"
+  "classname" "light"
+}
+{
+  "origin" "2192 3112 3516"
+  "spawnflags" "8"
+  "targetname" "ambiente_hp01"
+  "message" "vhe/ze_hospital_night/sonido_hospital1.wav"
+  "cspinup" "0"
+  "lfomodvol" "0"
+  "lfomodpitch" "0"
+  "lforate" "0"
+  "lfotype" "0"
+  "spindown" "0"
+  "spinup" "0"
+  "pitchstart" "100"
+  "pitch" "100"
+  "fadeout" "0"
+  "fadein" "0"
+  "volstart" "0"
+  "health" "100"
+  "angles" "0 0 0"
+  "classname" "ambient_generic"
+}
+{
+  "origin" "1122 3582 3608"
+  "_light" "180 180 230 100"
+  "angles" "0 90 0"
+  "classname" "light"
+}
+{
+  "origin" "768 3582 3608"
+  "_light" "180 180 230 100"
+  "angles" "0 90 0"
+  "classname" "light"
+}
+{
+  "origin" "768 3278 3608"
+  "_light" "180 180 230 100"
+  "angles" "0 90 0"
+  "classname" "light"
+}
+{
+  "origin" "768 2990 3608"
+  "_light" "180 180 230 100"
+  "angles" "0 90 0"
+  "classname" "light"
+}
+{
+  "origin" "768 2578 3608"
+  "_light" "180 180 230 100"
+  "angles" "0 90 0"
+  "classname" "light"
+}
+{
+  "origin" "1060 2992 3608"
+  "_light" "180 180 230 100"
+  "angles" "0 90 0"
+  "classname" "light"
+}
+{
+  "origin" "1060 3280 3608"
+  "_light" "180 180 230 100"
+  "angles" "0 90 0"
+  "classname" "light"
+}
+{
+  "origin" "1346 2748 3608"
+  "_light" "180 180 230 100"
+  "angles" "0 90 0"
+  "classname" "light"
+}
+{
+  "origin" "-452 1071 2779"
+  "texture" "{C2A2_A"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "-1917 -2752 3390"
+  "model" "models/player/gsg9/gsg9.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_start"
+}
+{
+  "origin" "-2294 -2489 3390"
+  "model" "models/player/gsg9/gsg9.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_start"
+}
+{
+  "origin" "-2182 -2416 3390"
+  "model" "models/player/gsg9/gsg9.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_start"
+}
+{
+  "origin" "-2132 -2551 3390"
+  "model" "models/player/gsg9/gsg9.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_start"
+}
+{
+  "origin" "-2038 -2468 3390"
+  "model" "models/player/gsg9/gsg9.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_start"
+}
+{
+  "origin" "-2081 -2298 3390"
+  "model" "models/player/gsg9/gsg9.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_start"
+}
+{
+  "origin" "-2204 -2306 3390"
+  "model" "models/player/gsg9/gsg9.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_start"
+}
+{
+  "origin" "-2202 -2181 3390"
+  "model" "models/player/gsg9/gsg9.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_start"
+}
+{
+  "origin" "-2068 -2172 3390"
+  "model" "models/player/gsg9/gsg9.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_start"
+}
+{
+  "origin" "-1925 -2186 3390"
+  "model" "models/player/gsg9/gsg9.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_start"
+}
+{
+  "origin" "-1909 -2320 3390"
+  "model" "models/player/gsg9/gsg9.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_start"
+}
+{
+  "origin" "-1903 -2446 3390"
+  "model" "models/player/gsg9/gsg9.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_start"
+}
+{
+  "origin" "-1796 -2183 3390"
+  "model" "models/player/gsg9/gsg9.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_start"
+}
+{
+  "origin" "-1787 -2383 3390"
+  "model" "models/player/gsg9/gsg9.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_start"
+}
+{
+  "origin" "-2101 -3110 3390"
+  "model" "models/player/guerilla/guerilla.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_deathmatch"
+}
+{
+  "origin" "-2242 -3190 3390"
+  "model" "models/player/guerilla/guerilla.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_deathmatch"
+}
+{
+  "origin" "-2243 -3286 3390"
+  "model" "models/player/guerilla/guerilla.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_deathmatch"
+}
+{
+  "origin" "-2330 -3348 3390"
+  "model" "models/player/guerilla/guerilla.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_deathmatch"
+}
+{
+  "origin" "-2234 -3430 3390"
+  "model" "models/player/guerilla/guerilla.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_deathmatch"
+}
+{
+  "origin" "-2229 -3519 3390"
+  "model" "models/player/guerilla/guerilla.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_deathmatch"
+}
+{
+  "origin" "-2134 -3517 3390"
+  "model" "models/player/guerilla/guerilla.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_deathmatch"
+}
+{
+  "origin" "-2112 -3426 3390"
+  "model" "models/player/guerilla/guerilla.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_deathmatch"
+}
+{
+  "origin" "-2109 -3331 3390"
+  "model" "models/player/guerilla/guerilla.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_deathmatch"
+}
+{
+  "origin" "-2332 -3618 3390"
+  "model" "models/player/guerilla/guerilla.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_deathmatch"
+}
+{
+  "origin" "-2215 -3662 3390"
+  "model" "models/player/guerilla/guerilla.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_deathmatch"
+}
+{
+  "origin" "-2074 -3605 3390"
+  "model" "models/player/guerilla/guerilla.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_deathmatch"
+}
+{
+  "origin" "-2027 -3245 3390"
+  "model" "models/player/guerilla/guerilla.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_deathmatch"
+}
+{
+  "origin" "-1934 -3119 3390"
+  "model" "models/player/guerilla/guerilla.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_deathmatch"
+}
+{
+  "origin" "-1812 -2904 3390"
+  "model" "models/player/guerilla/guerilla.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_deathmatch"
+}
+{
+  "origin" "-1818 -2751 3390"
+  "model" "models/player/guerilla/guerilla.mdl"
+  "sequence" "1"
+  "angles" "0 0 0"
+  "classname" "info_player_deathmatch"
+}
+{
+  "origin" "428 688 2772"
+  "spawnflags" "8"
+  "message" "vhe/ze_hospital_night/ambiente_hospital.wav"
+  "targetname" "ambiente_hp"
+  "angles" "0 0 0"
+  "cspinup" "0"
+  "lfomodvol" "0"
+  "lfomodpitch" "0"
+  "lforate" "0"
+  "lfotype" "0"
+  "spindown" "0"
+  "spinup" "0"
+  "pitchstart" "100"
+  "pitch" "100"
+  "fadeout" "0"
+  "fadein" "0"
+  "volstart" "0"
+  "health" "100"
+  "classname" "ambient_generic"
+}
+{
+  "origin" "1870 2069 3499"
+  "texture" "{BLOODHAND6"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "style" "32"
+  "origin" "-2148 -3270 3480"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "style" "32"
+  "origin" "-1828 -2832 3480"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "style" "32"
+  "origin" "-2148 -2312 3480"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "origin" "-1688 -2193 3413"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND3"
+  "classname" "infodecal"
+}
+{
+  "origin" "-1688 -2147 3427"
+  "angles" "0 0 0"
+  "texture" "{BREAK1"
+  "classname" "infodecal"
+}
+{
+  "origin" "-1688 -2299 3412"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "-1688 -2305 3417"
+  "angles" "0 0 0"
+  "texture" "{BREAK2"
+  "classname" "infodecal"
+}
+{
+  "origin" "696 -3408 3390"
+  "angles" "0 270 0"
+  "texture" "{BLOODHAND2"
+  "classname" "infodecal"
+}
+{
+  "origin" "929 -3408 3401"
+  "angles" "0 270 0"
+  "texture" "{BLOODHAND5"
+  "classname" "infodecal"
+}
+{
+  "origin" "978 -3408 3397"
+  "angles" "0 270 0"
+  "texture" "{BLOODHAND3"
+  "classname" "infodecal"
+}
+{
+  "style" "32"
+  "origin" "-740 -2832 3480"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "style" "32"
+  "origin" "-220 -2800 3480"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "style" "32"
+  "origin" "-228 -3352 3480"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "origin" "-230 -2216 3412"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND2"
+  "classname" "infodecal"
+}
+{
+  "origin" "-277 -2216 3422"
+  "angles" "0 0 0"
+  "texture" "{BREAK2"
+  "classname" "infodecal"
+}
+{
+  "origin" "-143 -2216 3429"
+  "angles" "0 0 0"
+  "texture" "{BREAK3"
+  "classname" "infodecal"
+}
+{
+  "origin" "-51 -2216 3415"
+  "angles" "0 0 0"
+  "texture" "{BREAK3"
+  "classname" "infodecal"
+}
+{
+  "style" "32"
+  "origin" "1484 -3224 3480"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "origin" "2476 -3632 3411"
+  "texture" "{DING11"
+  "angles" "0 0 0"
+  "classname" "infodecal"
+}
+{
+  "origin" "1348 1544 3515"
+  "angles" "0 90 0"
+  "texture" "{BREAK1"
+  "classname" "infodecal"
+}
+{
+  "origin" "1348 1733 3509"
+  "angles" "0 90 0"
+  "texture" "{BREAK2"
+  "classname" "infodecal"
+}
+{
+  "origin" "1348 1598 3501"
+  "angles" "0 90 0"
+  "texture" "{BREAK2"
+  "classname" "infodecal"
+}
+{
+  "origin" "1348 1689 3517"
+  "angles" "0 90 0"
+  "texture" "{BREAK1"
+  "classname" "infodecal"
+}
+{
+  "style" "32"
+  "origin" "1188 998 3608"
+  "_light" "190 255 255 120"
+  "_fade" "1.0"
+  "angles" "0 90 0"
+  "classname" "light"
+}
+{
+  "style" "32"
+  "origin" "136 2321 3608"
+  "_light" "190 255 255 120"
+  "angles" "0 90 0"
+  "classname" "light"
+}
+{
+  "origin" "1282 1152 3533"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "1193 1152 3513"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND2"
+  "classname" "infodecal"
+}
+{
+  "origin" "1123 1152 3527"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND3"
+  "classname" "infodecal"
+}
+{
+  "origin" "1067 1152 3556"
+  "angles" "0 0 0"
+  "texture" "{BLOOD3"
+  "classname" "infodecal"
+}
+{
+  "origin" "1215 1330 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "1126 1420 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "1237 1431 3444"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND3"
+  "classname" "infodecal"
+}
+{
+  "origin" "1118 2073 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "1277 2116 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "1198 2139 3444"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND3"
+  "classname" "infodecal"
+}
+{
+  "origin" "229 1430 3505"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND3"
+  "classname" "infodecal"
+}
+{
+  "origin" "83 1430 3506"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND2"
+  "classname" "infodecal"
+}
+{
+  "origin" "160 1430 3519"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "5 1430 3483"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "217 1554 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "68 1654 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "182 1990 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "98 2017 3444"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND2"
+  "classname" "infodecal"
+}
+{
+  "origin" "-44 2149 3480"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND3"
+  "classname" "infodecal"
+}
+{
+  "origin" "-4 2142 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "208 2187 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "1205 2519 3444"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND2"
+  "classname" "infodecal"
+}
+{
+  "origin" "1196 3078 3503"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND6"
+  "classname" "infodecal"
+}
+{
+  "origin" "1196 3035 3506"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND5"
+  "classname" "infodecal"
+}
+{
+  "origin" "1433 2735 3515"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "934 3140 3472"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "985 3105 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "1684 3504 3492"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND6"
+  "classname" "infodecal"
+}
+{
+  "origin" "1360 2862 3513"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND6"
+  "classname" "infodecal"
+}
+{
+  "origin" "576 2685 3505"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND2"
+  "classname" "infodecal"
+}
+{
+  "origin" "626 2686 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "1179 2372 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "8 2444 3499"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND2"
+  "classname" "infodecal"
+}
+{
+  "origin" "237 2444 3496"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND3"
+  "classname" "infodecal"
+}
+{
+  "origin" "289 2444 3497"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "-188 1952 2792"
+  "angles" "0 0 0"
+  "_light" "255 255 127 200"
+  "classname" "light"
+}
+{
+  "origin" "1232.26 757.62 2676"
+  "spawnflags" "4"
+  "targetname" "ambulancia"
+  "angles" "0 270 0"
+  "renderamt" "255"
+  "rendercolor" "0 0 0"
+  "body" "0"
+  "framerate" "10"
+  "model" "models/ambulance.mdl"
+  "classname" "cycler_sprite"
+}
+{
+  "origin" "202.792 -356.813 2731.64"
+  "spawnflags" "4"
+  "targetname" "ambulancia"
+  "angles" "0 148 104"
+  "renderamt" "255"
+  "rendercolor" "0 0 0"
+  "body" "0"
+  "framerate" "10"
+  "model" "models/ambulance.mdl"
+  "classname" "cycler_sprite"
+}
+{
+  "model" "*1"
+  "angles" "0 0 0"
+  "renderamt" "255"
+  "rendercolor" "0 0 0"
+  "skin" "-1"
+  "_minlight" "0"
+  "rendermode" "4"
+  "targetname" "planta"
+  "classname" "func_illusionary"
+}
+{
+  "origin" "-175 -2181 3416"
+  "target" "mira"
+  "delay" "0"
+  "angles" "0 0 0"
+  "wait" "10"
+  "spawnflags" "3"
+  "speed" "0"
+  "acceleration" "500"
+  "deceleration" "500"
+  "classname" "trigger_camera"
+}
+{
+  "origin" "-146 -2147 3410"
+  "angles" "0 0 0"
+  "targetname" "mira"
+  "classname" "info_target"
+}
+{
+  "origin" "684 1904 3564"
+  "health" "100"
+  "volstart" "0"
+  "fadein" "0"
+  "fadeout" "0"
+  "pitch" "100"
+  "pitchstart" "100"
+  "spinup" "0"
+  "spindown" "0"
+  "lfotype" "0"
+  "lforate" "0"
+  "lfomodpitch" "0"
+  "lfomodvol" "0"
+  "cspinup" "0"
+  "spawnflags" "8"
+  "angles" "0 90 0"
+  "message" "vhe/ze_hospital_night/sonido_hospital3.wav"
+  "targetname" "ambiente_hp03"
+  "classname" "ambient_generic"
+}
+{
+  "origin" "1092 -1424 3268"
+  "spawnflags" "4"
+  "targetname" "ambiente_hp"
+  "message" "vhe/ze_hospital_night/ambiente_hospital.wav"
+  "cspinup" "0"
+  "lfomodvol" "0"
+  "lfomodpitch" "0"
+  "lforate" "0"
+  "lfotype" "0"
+  "spindown" "0"
+  "spinup" "0"
+  "pitchstart" "100"
+  "pitch" "100"
+  "fadeout" "0"
+  "fadein" "0"
+  "volstart" "0"
+  "health" "100"
+  "angles" "0 0 0"
+  "classname" "ambient_generic"
+}
+{
+  "origin" "-1612 -2850 3396"
+  "XRAY_ZOMB" "190 255 255 120"
+  "HOSP_XRAYS01" "190 255 255 120"
+  "HOSP_XRAYS02" "190 255 255 120"
+  "TOMA_RX" "255 255 255 200"
+  "PC5" "255 255 255 200"
+  "IMAGEN_PC_1" "255 255 255 200"
+  "CPMONITOR" "190 255 255 120"
+  "PC4" "255 255 255 200"
+  "+AEXIT" "0 255 0 200"
+  "PC6" "255 255 255 200"
+  "PC3" "255 255 255 200"
+  "CPMONITOR3" "255 255 255 200"
+  "PC1" "255 255 255 200"
+  "PC" "255 255 255 200"
+  "PC_COMPUTER05" "255 255 255 200"
+  "PC_COMPUTER02" "255 255 255 200"
+  "GLASS_01" "255 255 255 200"
+  "MEME01" "255 255 255 200"
+  "SCROLLPRXWATER2" "255 255 255 200"
+  "LOGO_CG" "150 150 150 200"
+  "S74LAMP1A" "255 255 255 200"
+  "DONACION_DARKV2" "255 255 255 200"
+  "CS_EXIT01" "0 170 0 200"
+  "PANEL_VHE_5" "85 255 255 200"
+  "PANEL_VHE_11" "85 255 0 200"
+  "~SPOTYELLOW" "255 255 127 200"
+  "+6FLICKERMON" "255 255 255 200"
+  "+0~LIGHT2A" "255 255 127 200"
+  "+0~LIGHT1" "100 199 253 200"
+  "+0~GENERIC86B" "85 255 127 200"
+  "+0~LIGHT6A" "255 0 0 200"
+  "+0~fifts_lght3" "75 75 75 200"
+  "angles" "0 0 0"
+  "REX_LIGHT02" "255 255 255 200"
+  "classname" "info_texlights"
+}
+{
+  "model" "*2"
+  "targetname" "agua"
+  "rendermode" "2"
+  "renderamt" "0"
+  "rendercolor" "0 0 0"
+  "angles" "0 0 0"
+  "spawnflags" "0"
+  "delay" "0"
+  "speed" "100"
+  "wait" "4"
+  "lip" "0"
+  "dmg" "0"
+  "health" "0"
+  "skin" "-3"
+  "WaveHeight" "0"
+  "classname" "func_water"
+}
+{
+  "origin" "1124 -3478 3192"
+  "_fade" "1.0"
+  "_light" "190 255 255 120"
+  "angles" "0 270 0"
+  "classname" "light"
+}
+{
+  "origin" "2584 3318 3521"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND5"
+  "classname" "infodecal"
+}
+{
+  "origin" "2210 1604 3507"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND5"
+  "classname" "infodecal"
+}
+{
+  "origin" "1500 2019 3247"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND5"
+  "classname" "infodecal"
+}
+{
+  "origin" "1500 2002 3272"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND5"
+  "classname" "infodecal"
+}
+{
+  "origin" "1692 -1184 2743"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND6"
+  "classname" "infodecal"
+}
+{
+  "origin" "3212 -2356 3069"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND5"
+  "classname" "infodecal"
+}
+{
+  "origin" "173 -2244 3348"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "409 -2675 3348"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "2983 -3193 3348"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "3123 -3253 3348"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "1362 2728 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "170 -249 2676"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "1093 2692 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "model" "*3"
+  "angles" "0 0 0"
+  "target" "ZONA_B"
+  "delay" "0"
+  "zhlt_invisible" "1"
+  "classname" "trigger_teleport"
+}
+{
+  "origin" "554 -1888 3403"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND2"
+  "classname" "infodecal"
+}
+{
+  "origin" "543 -1984 3348"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "452 -2139 3348"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "685 -1888 3411"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "618 -2144 3348"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "-298 -1890 3425"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "-293 -2024 3348"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "-468 -2046 3403"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND2"
+  "classname" "infodecal"
+}
+{
+  "origin" "2206 -3664 3397"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND2"
+  "classname" "infodecal"
+}
+{
+  "origin" "556 -2707 3407"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND5"
+  "classname" "infodecal"
+}
+{
+  "origin" "3017 -3664 3409"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND5"
+  "classname" "infodecal"
+}
+{
+  "origin" "3053 -1120 3090"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND5"
+  "classname" "infodecal"
+}
+{
+  "origin" "2867 -2511 3084"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND5"
+  "classname" "infodecal"
+}
+{
+  "origin" "2868 -2353 3095"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND3"
+  "classname" "infodecal"
+}
+{
+  "origin" "1674 -3412 3092"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND3"
+  "classname" "infodecal"
+}
+{
+  "origin" "1807 -3412 3087"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD2"
+  "classname" "infodecal"
+}
+{
+  "origin" "988 -2803 3083"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND5"
+  "classname" "infodecal"
+}
+{
+  "origin" "1356 -2387 3078"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND3"
+  "classname" "infodecal"
+}
+{
+  "origin" "1823 -3664 3077"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND5"
+  "classname" "infodecal"
+}
+{
+  "origin" "3244 -3518 3097"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND5"
+  "classname" "infodecal"
+}
+{
+  "origin" "3244 -3562 3098"
+  "angles" "0 0 0"
+  "texture" "{BLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "3100 -1120 3079"
+  "angles" "0 0 0"
+  "texture" "{BLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "1785 -411 2765"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND2"
+  "classname" "infodecal"
+}
+{
+  "origin" "2148 2218 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "2209 2104 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "2187 1652 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "2053 1834 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "2050 2934 3493"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND2"
+  "classname" "infodecal"
+}
+{
+  "origin" "1785 3432 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "660 2224 3494"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND2"
+  "classname" "infodecal"
+}
+{
+  "origin" "605 2367 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "451 2310 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "986 2224 3502"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "1262 1677 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "1223 1845 3444"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "-175 2224 3519"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND3"
+  "classname" "infodecal"
+}
+{
+  "origin" "-1833 -1696 3418"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND5"
+  "classname" "infodecal"
+}
+{
+  "origin" "-1684 -1959 3417"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND5"
+  "classname" "infodecal"
+}
+{
+  "origin" "-1684 -1917 3415"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND1"
+  "classname" "infodecal"
+}
+{
+  "origin" "-1790 -1696 3418"
+  "angles" "0 0 0"
+  "texture" "{BLOOD8"
+  "classname" "infodecal"
+}
+{
+  "origin" "428 -2404 3086"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND1"
+  "classname" "infodecal"
+}
+{
+  "origin" "428 -2363 3088"
+  "angles" "0 0 0"
+  "texture" "{BLOOD8"
+  "classname" "infodecal"
+}
+{
+  "origin" "2198 -697 -2300"
+  "_diffuse_light" "122 122 122 200"
+  "angles" "-65 180 0"
+  "_light" "150 130 200 60"
+  "targetname" "Luz_Generico"
+  "style" "33"
+  "classname" "light_environment"
+}
+{
+  "origin" "-265 -322 -2581"
+  "speed" "170"
+  "targetname" "1_h"
+  "target" "arriba_2"
+  "angles" "0 0 0"
+  "classname" "path_track"
+}
+{
+  "origin" "2134 373 -1476"
+  "speed" "120"
+  "targetname" "4_h_2"
+  "angles" "0 0 0"
+  "classname" "path_track"
+}
+{
+  "origin" "2134 -1241 -1916"
+  "speed" "180"
+  "targetname" "3_h_2"
+  "target" "4_h_2"
+  "angles" "0 0 0"
+  "classname" "path_track"
+}
+{
+  "origin" "373.5 -1241 -1916"
+  "speed" "200"
+  "targetname" "2_h_2"
+  "angles" "0 0 0"
+  "target" "3_h_2"
+  "classname" "path_track"
+}
+{
+  "origin" "760 -937 -2388"
+  "targetname" "bandera_vnzla"
+  "framerate" "3"
+  "rendercolor" "0 0 0"
+  "renderamt" "255"
+  "angles" "0 44 0"
+  "model" "models/vhe/bandera_v2_vnzla.mdl"
+  "classname" "cycler_sprite"
+}
+{
+  "model" "*4"
+  "angles" "0 0 0"
+  "zhlt_invisible" "1"
+  "classname" "func_ladder"
+}
+{
+  "origin" "150 -401 -2652"
+  "jefe" "0.2"
+  "angles" "0 0 0"
+  "music" "5"
+  "heli" "45"
+  "VHE-Servers" "0.1"
+  "targetname" "manager_escape_2"
+  "classname" "multi_manager"
+}
+{
+  "origin" "150 -249 -2652.18"
+  "spawnflags" "1"
+  "x" "-1"
+  "y" "0.6"
+  "color" "128 128 128"
+  "color2" "240 110 0"
+  "fadein" "1.5"
+  "fadeout" "0.5"
+  "holdtime" "3"
+  "fxtime" "0.25"
+  "channel" "1"
+  "message" "*** ze_Hospital_Night_DG ***\nZombie Escape - Drunk Gaming.net\n==========================\nMap By Pirucho XP-007\n=========================="
+  "targetname" "VHE-Servers"
+  "angles" "0 270 0"
+  "classname" "game_text"
+}
+{
+  "origin" "150 -273 -2652.18"
+  "spawnflags" "1"
+  "x" "-1"
+  "y" "-1"
+  "color" "192 192 192"
+  "color2" "192 192 192"
+  "fadein" "0.1"
+  "fadeout" "0.5"
+  "holdtime" "5"
+  "channel" "1"
+  "targetname" "texto_Es_VHE"
+  "message" "Escape Success!"
+  "effect" "2"
+  "angles" "0 270 0"
+  "classname" "game_text"
+}
+{
+  "origin" "150 -305 -2652.18"
+  "duration" "1"
+  "renderamt" "255"
+  "rendercolor" "0 0 0"
+  "holdtime" "6"
+  "targetname" "sky"
+  "angles" "0 270 0"
+  "classname" "env_fade"
+}
+{
+  "origin" "150 -337 -2652.18"
+  "spawnflags" "1"
+  "amplitude" "5"
+  "radius" "500"
+  "duration" "3"
+  "frequency" "2.5"
+  "targetname" "terremoto"
+  "angles" "0 270 0"
+  "classname" "env_shake"
+}
+{
+  "origin" "126 -401 -2652"
+  "creditos" "2"
+  "angles" "0 0 0"
+  "sky" "0.5"
+  "terremoto" "0.1"
+  "texto_Es_VHE" "1"
+  "kill#1" "3"
+  "kill" "0.1"
+  "targetname" "manager_kill_2"
+  "classname" "multi_manager"
+}
+{
+  "model" "*5"
+  "angles" "0 0 0"
+  "target" "manager_kill_2"
+  "delay" "0"
+  "wait" "100"
+  "zhlt_invisible" "1"
+  "classname" "trigger_multiple"
+}
+{
+  "origin" "78 -322 -1861"
+  "angles" "0 0 0"
+  "target" "2_h_2"
+  "targetname" "arriba_2"
+  "speed" "200"
+  "classname" "path_track"
+}
+{
+  "model" "*6"
+  "zhlt_noclip" "1"
+  "rendermode" "4"
+  "target" "manager_escape_2"
+  "renderamt" "255"
+  "rendercolor" "0 0 0"
+  "angles" "0 0 0"
+  "speed" "5"
+  "health" "0"
+  "lip" "0"
+  "wait" "3"
+  "delay" "0"
+  "_minlight" "0"
+  "spawnflags" "1"
+  "classname" "func_button"
+}
+{
+  "origin" "-145 950 -3960"
+  "targetname" "ZONA_B"
+  "_light" "255 255 128 200"
+  "angles" "0 0 0"
+  "classname" "info_teleport_destination"
+}
+{
+  "origin" "1436 2353 3499"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND1"
+  "classname" "infodecal"
+}
+{
+  "origin" "150 -377 -2652"
+  "spawnflags" "49"
+  "cspinup" "0"
+  "lfomodvol" "0"
+  "lfomodpitch" "0"
+  "lforate" "0"
+  "lfotype" "0"
+  "spindown" "0"
+  "spinup" "0"
+  "pitchstart" "100"
+  "pitch" "100"
+  "fadeout" "0"
+  "fadein" "0"
+  "volstart" "100"
+  "health" "100"
+  "targetname" "jefe"
+  "message" "vhe/ze_hospital_night/jefe.wav"
+  "angles" "0 0 0"
+  "classname" "ambient_generic"
+}
+{
+  "model" "*7"
+  "targetname" "Torre_4G"
+  "zhlt_noclip" "1"
+  "rendermode" "4"
+  "angles" "0 0 0"
+  "zhlt_detaillevel" "3"
+  "renderamt" "255"
+  "rendercolor" "0 0 0"
+  "_minlight" "0"
+  "classname" "func_wall"
+}
+{
+  "origin" "1742 1319 2692"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND2"
+  "classname" "infodecal"
+}
+{
+  "origin" "1856 1327 2692"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "1662 1950 2745"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND3"
+  "classname" "infodecal"
+}
+{
+  "origin" "1563 2272 2761"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND6"
+  "classname" "infodecal"
+}
+{
+  "origin" "2011 2066 3004"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND6"
+  "classname" "infodecal"
+}
+{
+  "model" "*8"
+  "origin" "-265 -374 -2518"
+  "angles" "0 0 0"
+  "renderamt" "255"
+  "rendercolor" "0 0 0"
+  "wheels" "50"
+  "height" "4"
+  "startspeed" "0"
+  "speed" "64"
+  "dmg" "0"
+  "volume" "10"
+  "bank" "0"
+  "_minlight" "0"
+  "targetname" "heli"
+  "rendermode" "4"
+  "target" "1_h"
+  "spawnflags" "3"
+  "classname" "func_tracktrain"
+}
+{
+  "origin" "-60 982 -3971"
+  "angles" "0 0 0"
+  "texture" "{BLOODHAND3"
+  "classname" "infodecal"
+}
+{
+  "origin" "-102 960 -4028"
+  "angles" "0 0 0"
+  "texture" "{BIGBLOOD1"
+  "classname" "infodecal"
+}
+{
+  "origin" "2028 -3536 3188"
+  "_light" "190 255 255 120"
+  "angles" "0 270 0"
+  "classname" "light"
+}
+{
+  "origin" "988 -3192 3480"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "origin" "3058 -1462 3192"
+  "_fade" "1.0"
+  "_light" "190 255 255 120"
+  "angles" "0 270 0"
+  "classname" "light"
+}
+{
+  "style" "32"
+  "origin" "1336 2321 3608"
+  "_light" "190 255 255 120"
+  "angles" "0 90 0"
+  "classname" "light"
+}
+{
+  "origin" "1124 -2000 3192"
+  "_fade" "1.0"
+  "_light" "190 255 255 120"
+  "angles" "0 270 0"
+  "classname" "light"
+}
+{
+  "origin" "3020 -3544 3188"
+  "_light" "190 255 255 120"
+  "angles" "0 270 0"
+  "classname" "light"
+}
+{
+  "origin" "150 -357 -2652"
+  "spawnflags" "49"
+  "cspinup" "0"
+  "lfomodvol" "0"
+  "lfomodpitch" "0"
+  "lforate" "0"
+  "lfotype" "0"
+  "spindown" "0"
+  "spinup" "0"
+  "pitchstart" "100"
+  "pitch" "100"
+  "fadeout" "0"
+  "fadein" "0"
+  "volstart" "100"
+  "health" "100"
+  "targetname" "music"
+  "message" "vhe/ze_hospital_night/raccon_city_escape.wav"
+  "angles" "0 0 0"
+  "classname" "ambient_generic"
+}
+{
+  "style" "32"
+  "origin" "1484 -2824 3480"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "style" "32"
+  "origin" "1052 -2064 3480"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "style" "32"
+  "origin" "-1124 -2832 3480"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "style" "32"
+  "origin" "-1508 -2832 3480"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "origin" "2190 3302 3608"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 270 0"
+  "classname" "light"
+}
+{
+  "origin" "1772 3584 3608"
+  "_light" "180 180 230 100"
+  "angles" "0 90 0"
+  "classname" "light"
+}
+{
+  "style" "32"
+  "origin" "122 1702 3608"
+  "_light" "190 255 255 120"
+  "angles" "0 90 0"
+  "classname" "light"
+}
+{
+  "style" "32"
+  "origin" "1188 1702 3608"
+  "_light" "190 255 255 120"
+  "angles" "0 90 0"
+  "classname" "light"
+}
+{
+  "origin" "476 -3192 3480"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "origin" "3028 -2000 3192"
+  "_fade" "1.0"
+  "_light" "190 255 255 120"
+  "angles" "0 270 0"
+  "classname" "light"
+}
+{
+  "model" "*9"
+  "angles" "0 0 0"
+  "targetname" "kill"
+  "delay" "0"
+  "dmg" "99990"
+  "zhlt_invisible" "1"
+  "spawnflags" "2"
+  "classname" "trigger_hurt"
+}
+{
+  "model" "*10"
+  "renderamt" "255"
+  "rendercolor" "0 0 0"
+  "_minlight" "0"
+  "rendermode" "4"
+  "targetname" "los solid"
+  "angles" "0 0 0"
+  "classname" "func_wall"
+}
+{
+  "model" "*11"
+  "zhlt_noclip" "1"
+  "rendermode" "5"
+  "targetname" "flechas"
+  "renderamt" "255"
+  "rendercolor" "0 0 0"
+  "angles" "0 0 0"
+  "speed" "50"
+  "_minlight" "0"
+  "spawnflags" "2"
+  "classname" "func_conveyor"
+}
+{
+  "model" "*12"
+  "angles" "0 0 0"
+  "rendermode" "2"
+  "targetname" "wall_glass"
+  "renderamt" "120"
+  "rendercolor" "0 0 0"
+  "_minlight" "0"
+  "classname" "func_wall"
+}
+{
+  "origin" "1484 -3544 3480"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "style" "32"
+  "origin" "-2140 -1912 3480"
+  "targetname" "Luz_Blanca_1"
+  "_fade" "1.0"
+  "_light" "180 180 230 100"
+  "angles" "0 0 0"
+  "classname" "light"
+}
+{
+  "origin" "2540 -3544 3188"
+  "_light" "190 255 255 120"
+  "angles" "0 270 0"
+  "classname" "light"
+}
+{
+  "model" "*13"
+  "angles" "0 0 0"
+  "rendermode" "2"
+  "renderamt" "130"
+  "rendercolor" "0 0 0"
+  "_minlight" "0"
+  "classname" "func_wall"
+}

@@ -1,0 +1,64 @@
+#include <amxmodx>
+#include <amxmisc>
+
+enum _:enumMusic
+{
+    nameMap[ 40 ],
+    nameMusic[ 120 ]
+};
+
+new g_music = 0;
+
+// Lista de los mapas con reproduccion de musicas.
+new const STR_DATA[][enumMusic]={
+	// Lista de musicas:
+	
+	/*
+	// De_Petare
+	{"de_petare", "sound/vhe/de_petare_vhe/music_login/musica01.mp3"}, // Se desputa
+	{"de_petare", "sound/vhe/de_petare_vhe/music_login/musica02.mp3"}, // Aleteo
+	{"de_petare", "sound/vhe/de_petare_vhe/music_login/musica03.mp3"}, // Singapur
+	{"de_petare", "sound/vhe/de_petare_vhe/music_login/musica04.mp3"} // ACTITUD
+	*/
+	
+	// Ze_Zero_CG
+	{"ze_zero_cg", "sound/vhe/svencoop01.wav"},
+	{"ze_zero_cg", "sound/vhe/ze_zero/music_login/music_a.mp3"},
+	{"ze_zero_cg", "sound/vhe/ze_zero/music_login/music_b.mp3"},
+	{"ze_zero_cg", "sound/vhe/ze_zero/music_login/music_c.mp3"},
+	// Adicional del servidor:
+	{"ze_zero_cg", "sound/vhe/Login_CG/ze_ambience01.mp3"},
+	{"ze_zero_cg", "sound/vhe/Login_CG/ze_ambience02.mp3"},
+	{"ze_zero_cg", "sound/vhe/Login_CG/ze_assassin.mp3"},
+	{"ze_zero_cg", "sound/vhe/Login_CG/ze_NemesisXP7.mp3"},
+	{"ze_zero_cg", "sound/vhe/Login_CG/ze_swarm.mp3"}
+}
+
+public plugin_precache(){
+	register_plugin( "Musica_Loggin_XP007", "1.0", "Matias_Esf" );
+
+	g_music = get_music( );
+	precache_generic( STR_DATA[ g_music ][ nameMusic ] );	
+}
+
+public client_connect( id )
+    client_cmd( id, "mp3 play ^"%s^"", STR_DATA[ g_music ][ nameMusic ] );
+
+public get_music( )
+{
+    new num = 0, szMap[ 30 ]; 
+    get_mapname( szMap, charsmax( szMap ) );
+
+    for( new i = 0; i < sizeof( STR_DATA ); ++i )
+    {
+        if( equal( szMap, STR_DATA[ i ][ nameMap ] ) )
+        {
+            num = i;
+            break;
+        }
+    }
+    return num;
+} 
+/* AMXX-Studio Notes - DO NOT MODIFY BELOW HERE
+*{\\ rtf1\\ ansi\\ deff0{\\ fonttbl{\\ f0\\ fnil Tahoma;}}\n\\ viewkind4\\ uc1\\ pard\\ lang8202\\ f0\\ fs16 \n\\ par }
+*/
