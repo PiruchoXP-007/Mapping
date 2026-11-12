@@ -1,0 +1,11 @@
+// Buenas aqui esta el log actualizado de los sound usados en cada mapa, aportes, etc.
+
+// *** ze_Anime_LG *** 
+
+Music_Generic:
+
+* - music_loop - musica The True King -? AMV ?- Fairy Tail.
+
+Random_amb:
+
+* - Sound aportados por Pirucho XP-007.

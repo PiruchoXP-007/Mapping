@@ -1,0 +1,13 @@
+music01 = [AMV-MAD]+Good+Anime+Fights+-+No+Line
+music02 = [Ore wo Suki Nano Wa Omae Dake ka Yo]
+music03 = aaron smith - dancin (KRONO Remix)
+music04 = Angel Beats!「AMV」- Impossible
+music05 = Black Clover「AMV」Asta and Yuno vs Demon - Courtesy
+music06 = Doja Cat - UWU
+music07 = Full opening naruto Blue Bird
+music08 = Kotori - Fooly Cooly
+music09 = love is war ryo
+music10	= Monster - Meg _ Dia (DotEXE remix)
+music11	= NANBAKA AMV- Mi Mi Mi
+music12 = The True King -「 AMV 」- Fairy Tail
+music13 = TheFatRat_ Slaydit _ Anjulie - Stronger
